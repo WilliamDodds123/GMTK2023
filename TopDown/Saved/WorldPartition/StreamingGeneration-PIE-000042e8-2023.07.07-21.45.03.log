@@ -1,0 +1,102 @@
+[+] Containers:
+ |- [+] Container: /Game/WilliamStuff/MainLevel
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:125A3DB54AEDEE1429496B886549CA33 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_17 Label:SM_Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=-50.000), Max=(X=7150.000 Y=7825.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 FolderPath:Playground FolderGuid:9FE5E8B349AF71F05F2688921F3F2AC5
+ |   |   |- Guid:1CA068194B9A56330F9DD1AAB27CB737 BaseClass:/Game/TopDown/Blueprints/Soldier.Soldier_C NativeClass:/Script/Engine.Character Name:Soldier_C_UAID_04D4C404ED0E7E9301_1813401572 Label:Soldier6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1186.400 Y=2286.400 Z=-0.090), Max=(X=1253.600 Y=2353.600 Z=176.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:20FD5DB74C67EFEADEADDB81DBA2F697 BaseClass:/Game/ProceduralWalls/Blueprints/BP_SplineWall.BP_SplineWall_C NativeClass:/Script/Engine.Actor Name:BP_SplineWall_C_UAID_7486E236B8A68E9301_1372891383 Label:BP_SplineWall SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-17.491 Y=-21.211 Z=-30.120), Max=(X=7083.776 Y=3346.393 Z=213.444) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:212D80EC4D072AE9CC6712A562BF4F7B BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_1 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=1020.000), Max=(X=0.000 Y=0.000 Z=1020.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:4C9334684BA61B42C769F799D2576455
+ |   |   |- Guid:21C7EFE641A288546DF01FAB79EF1535 BaseClass:/Game/TopDown/Blueprints/Soldier.Soldier_C NativeClass:/Script/Engine.Character Name:Soldier_C_UAID_04D4C404ED0E7E9301_1818485576 Label:Soldier10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1416.400 Y=2226.400 Z=-0.090), Max=(X=1483.600 Y=2293.600 Z=176.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:2978E87146339893DE23939BF01CB3E4 BaseClass:/Game/ProceduralWalls/Blueprints/BP_SplineWall.BP_SplineWall_C NativeClass:/Script/Engine.Actor Name:BP_SplineWall_C_UAID_7486E236B8A68F9301_1184368560 Label:BP_SplineWall2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6.224 Y=4383.607 Z=-30.120), Max=(X=7107.491 Y=7751.211 Z=213.444) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:2EDB612C48AA3642FD1AF7BEB0FA4EFC BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_1 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=400.000), Max=(X=200.000 Y=200.000 Z=600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:4C9334684BA61B42C769F799D2576455
+ |   |   |- Guid:331E97654726CFFC07C7EB89241C5548 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC5CFB00_1660657071 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 FolderPath:Lighting FolderGuid:4C9334684BA61B42C769F799D2576455
+ |   |   |- Guid:421B1D5B4C8E5B7669C98E884CC8F6F0 BaseClass:/Game/TopDown/Blueprints/Soldier.Soldier_C NativeClass:/Script/Engine.Character Name:Soldier_C_UAID_04D4C404ED0E7E9301_1324982571 Label:Soldier5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1506.400 Y=1426.400 Z=-0.090), Max=(X=1573.600 Y=1493.600 Z=176.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:5EE7F4354B870A153E6AEBAE002C93C1 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:5EF75FE24484F547E6F2F4B35C209844 BaseClass: NativeClass:/Script/AIModule.NavLinkProxy Name:NavLinkProxy_3 Label:NavLinkProxy3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2240.000 Y=1030.000 Z=90.000), Max=(X=2240.000 Y=1030.000 Z=90.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Navigation FolderGuid:AE45D61F453CC144CF8289862C276E89
+ |   |   |- Guid:6E29A5C74948944F120604918CBEF5DC BaseClass:/Game/TopDown/Blueprints/Soldier.Soldier_C NativeClass:/Script/Engine.Character Name:Soldier_C_UAID_04D4C404ED0E7E9301_1322195568 Label:Soldier2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1916.400 Y=1296.400 Z=-0.090), Max=(X=1983.600 Y=1363.600 Z=176.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:7CBE5AF84F2EFEC8215384A3ECE0330D BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=960.000 Y=1770.000 Z=0.013), Max=(X=1040.000 Y=1850.000 Z=184.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:83A0899B4D567D7097ECED8916317B9B BaseClass: NativeClass:/Script/NavigationSystem.NavMeshBoundsVolume Name:NavMeshBoundsVolume_1 Label:NavMeshBoundsVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-360.000 Y=-715.000 Z=-110.000), Max=(X=7640.000 Y=8535.000 Z=390.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Navigation FolderGuid:AE45D61F453CC144CF8289862C276E89
+ |   |   |- Guid:8F768BD04FE30193838D3CA8C9541854 BaseClass:/Game/TopDown/Blueprints/Soldier.Soldier_C NativeClass:/Script/Engine.Character Name:Soldier_C_UAID_04D4C404ED0E7E9301_1323189569 Label:Soldier3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2006.400 Y=1626.400 Z=-0.090), Max=(X=2073.600 Y=1693.600 Z=176.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:A32FB6BD48B7EA2DE567878C7AC58F00 BaseClass:/Game/TopDown/Blueprints/Soldier.Soldier_C NativeClass:/Script/Engine.Character Name:Soldier_C_UAID_04D4C404ED0E7D9301_1981393391 Label:Soldier SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=796.400 Y=2086.400 Z=-0.090), Max=(X=863.600 Y=2153.600 Z=176.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:B28D56B84949A6065FF522A5CC24EBEB BaseClass:/Game/TopDown/Blueprints/Soldier.Soldier_C NativeClass:/Script/Engine.Character Name:Soldier_C_UAID_04D4C404ED0E7E9301_1817339575 Label:Soldier9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1286.400 Y=2026.400 Z=-0.090), Max=(X=1353.600 Y=2093.600 Z=176.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:BE6823EC4E41CD03B2069D80FB774C67 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_1 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:4C9334684BA61B42C769F799D2576455
+ |   |   |- Guid:CF7847D2430078F180D6E7AF78840A02 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_1 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=690.000), Max=(X=0.000 Y=0.000 Z=690.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:4C9334684BA61B42C769F799D2576455
+ |   |   |- Guid:D248FA4747D64EE09478B59DD86362F8 BaseClass:/Game/TopDown/Blueprints/Soldier.Soldier_C NativeClass:/Script/Engine.Character Name:Soldier_C_UAID_04D4C404ED0E7E9301_1814840573 Label:Soldier7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1536.400 Y=1966.400 Z=-0.090), Max=(X=1603.600 Y=2033.600 Z=176.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:D5A6CFE44CC38C9B8194499012AA6A8A BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_0 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=820.000), Max=(X=0.000 Y=0.000 Z=820.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:4C9334684BA61B42C769F799D2576455
+ |   |   |- Guid:DE823D0549412B906CF1DD9CB38ED385 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_1 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:4C9334684BA61B42C769F799D2576455
+ |   |   |- Guid:F59DCD524EAB5F7A84F4139E7F0C39CF BaseClass:/Game/TopDown/Blueprints/Soldier.Soldier_C NativeClass:/Script/Engine.Character Name:Soldier_C_UAID_04D4C404ED0E7E9301_1324134570 Label:Soldier4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1736.400 Y=1766.400 Z=-0.090), Max=(X=1803.600 Y=1833.600 Z=176.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:FB5566E14619B608D1023EADCBB71FC0 BaseClass:/Game/TopDown/Blueprints/Soldier.Soldier_C NativeClass:/Script/Engine.Character Name:Soldier_C_UAID_04D4C404ED0E7E9301_1816061574 Label:Soldier8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1416.400 Y=2066.400 Z=-0.090), Max=(X=1483.600 Y=2133.600 Z=176.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:421B1D5B4C8E5B7669C98E884CC8F6F0 BaseClass:/Game/TopDown/Blueprints/Soldier.Soldier_C NativeClass:/Script/Engine.Character Name:Soldier_C_UAID_04D4C404ED0E7E9301_1324982571 Label:Soldier5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1506.400 Y=1426.400 Z=-0.090), Max=(X=1573.600 Y=1493.600 Z=176.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:B28D56B84949A6065FF522A5CC24EBEB BaseClass:/Game/TopDown/Blueprints/Soldier.Soldier_C NativeClass:/Script/Engine.Character Name:Soldier_C_UAID_04D4C404ED0E7E9301_1817339575 Label:Soldier9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1286.400 Y=2026.400 Z=-0.090), Max=(X=1353.600 Y=2093.600 Z=176.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:83A0899B4D567D7097ECED8916317B9B BaseClass: NativeClass:/Script/NavigationSystem.NavMeshBoundsVolume Name:NavMeshBoundsVolume_1 Label:NavMeshBoundsVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-360.000 Y=-715.000 Z=-110.000), Max=(X=7640.000 Y=8535.000 Z=390.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Navigation FolderGuid:AE45D61F453CC144CF8289862C276E89
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:2EDB612C48AA3642FD1AF7BEB0FA4EFC BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_1 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=400.000), Max=(X=200.000 Y=200.000 Z=600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:4C9334684BA61B42C769F799D2576455
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:F59DCD524EAB5F7A84F4139E7F0C39CF BaseClass:/Game/TopDown/Blueprints/Soldier.Soldier_C NativeClass:/Script/Engine.Character Name:Soldier_C_UAID_04D4C404ED0E7E9301_1324134570 Label:Soldier4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1736.400 Y=1766.400 Z=-0.090), Max=(X=1803.600 Y=1833.600 Z=176.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:5EF75FE24484F547E6F2F4B35C209844 BaseClass: NativeClass:/Script/AIModule.NavLinkProxy Name:NavLinkProxy_3 Label:NavLinkProxy3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2240.000 Y=1030.000 Z=90.000), Max=(X=2240.000 Y=1030.000 Z=90.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Navigation FolderGuid:AE45D61F453CC144CF8289862C276E89
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:FB5566E14619B608D1023EADCBB71FC0 BaseClass:/Game/TopDown/Blueprints/Soldier.Soldier_C NativeClass:/Script/Engine.Character Name:Soldier_C_UAID_04D4C404ED0E7E9301_1816061574 Label:Soldier8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1416.400 Y=2066.400 Z=-0.090), Max=(X=1483.600 Y=2133.600 Z=176.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:CF7847D2430078F180D6E7AF78840A02 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_1 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=690.000), Max=(X=0.000 Y=0.000 Z=690.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:4C9334684BA61B42C769F799D2576455
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:D5A6CFE44CC38C9B8194499012AA6A8A BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_0 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=820.000), Max=(X=0.000 Y=0.000 Z=820.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:4C9334684BA61B42C769F799D2576455
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:DE823D0549412B906CF1DD9CB38ED385 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_1 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:4C9334684BA61B42C769F799D2576455
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:1CA068194B9A56330F9DD1AAB27CB737 BaseClass:/Game/TopDown/Blueprints/Soldier.Soldier_C NativeClass:/Script/Engine.Character Name:Soldier_C_UAID_04D4C404ED0E7E9301_1813401572 Label:Soldier6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1186.400 Y=2286.400 Z=-0.090), Max=(X=1253.600 Y=2353.600 Z=176.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:BE6823EC4E41CD03B2069D80FB774C67 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_1 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:4C9334684BA61B42C769F799D2576455
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:8F768BD04FE30193838D3CA8C9541854 BaseClass:/Game/TopDown/Blueprints/Soldier.Soldier_C NativeClass:/Script/Engine.Character Name:Soldier_C_UAID_04D4C404ED0E7E9301_1323189569 Label:Soldier3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2006.400 Y=1626.400 Z=-0.090), Max=(X=2073.600 Y=1693.600 Z=176.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:5EE7F4354B870A153E6AEBAE002C93C1 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:A32FB6BD48B7EA2DE567878C7AC58F00 BaseClass:/Game/TopDown/Blueprints/Soldier.Soldier_C NativeClass:/Script/Engine.Character Name:Soldier_C_UAID_04D4C404ED0E7D9301_1981393391 Label:Soldier SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=796.400 Y=2086.400 Z=-0.090), Max=(X=863.600 Y=2153.600 Z=176.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 15]
+ |   |   |   |- Guid:6E29A5C74948944F120604918CBEF5DC BaseClass:/Game/TopDown/Blueprints/Soldier.Soldier_C NativeClass:/Script/Engine.Character Name:Soldier_C_UAID_04D4C404ED0E7E9301_1322195568 Label:Soldier2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1916.400 Y=1296.400 Z=-0.090), Max=(X=1983.600 Y=1363.600 Z=176.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 16]
+ |   |   |   |- Guid:D248FA4747D64EE09478B59DD86362F8 BaseClass:/Game/TopDown/Blueprints/Soldier.Soldier_C NativeClass:/Script/Engine.Character Name:Soldier_C_UAID_04D4C404ED0E7E9301_1814840573 Label:Soldier7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1536.400 Y=1966.400 Z=-0.090), Max=(X=1603.600 Y=2033.600 Z=176.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 17]
+ |   |   |   |- Guid:212D80EC4D072AE9CC6712A562BF4F7B BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_1 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=1020.000), Max=(X=0.000 Y=0.000 Z=1020.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:4C9334684BA61B42C769F799D2576455
+ |   |   |- [+] [ 18]
+ |   |   |   |- Guid:7CBE5AF84F2EFEC8215384A3ECE0330D BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=960.000 Y=1770.000 Z=0.013), Max=(X=1040.000 Y=1850.000 Z=184.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 19]
+ |   |   |   |- Guid:331E97654726CFFC07C7EB89241C5548 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC5CFB00_1660657071 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 FolderPath:Lighting FolderGuid:4C9334684BA61B42C769F799D2576455
+ |   |   |- [+] [ 20]
+ |   |   |   |- Guid:21C7EFE641A288546DF01FAB79EF1535 BaseClass:/Game/TopDown/Blueprints/Soldier.Soldier_C NativeClass:/Script/Engine.Character Name:Soldier_C_UAID_04D4C404ED0E7E9301_1818485576 Label:Soldier10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1416.400 Y=2226.400 Z=-0.090), Max=(X=1483.600 Y=2293.600 Z=176.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 21]
+ |   |   |   |- Guid:125A3DB54AEDEE1429496B886549CA33 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_17 Label:SM_Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=-50.000), Max=(X=7150.000 Y=7825.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 FolderPath:Playground FolderGuid:9FE5E8B349AF71F05F2688921F3F2AC5
+ |   |   |- [+] [ 22]
+ |   |   |   |- Guid:20FD5DB74C67EFEADEADDB81DBA2F697 BaseClass:/Game/ProceduralWalls/Blueprints/BP_SplineWall.BP_SplineWall_C NativeClass:/Script/Engine.Actor Name:BP_SplineWall_C_UAID_7486E236B8A68E9301_1372891383 Label:BP_SplineWall SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-17.491 Y=-21.211 Z=-30.120), Max=(X=7083.776 Y=3346.393 Z=213.444) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 23]
+ |   |   |   |- Guid:2978E87146339893DE23939BF01CB3E4 BaseClass:/Game/ProceduralWalls/Blueprints/BP_SplineWall.BP_SplineWall_C NativeClass:/Script/Engine.Actor Name:BP_SplineWall_C_UAID_7486E236B8A68F9301_1184368560 Label:BP_SplineWall2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6.224 Y=4383.607 Z=-30.120), Max=(X=7107.491 Y=7751.211 Z=213.444) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 0x0000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/WilliamStuff/MainLevel
+----------------------------------------------------------------------------------------------------------------
+MainLevel - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+Always loaded Actor Count: 32 
+
+----------------------------------------------------------------------------------------------------------------
+MainLevel - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+
+[+] Grid Levels: 1
+ |- Level  0: Cell Count    0 | Cell Size   12800 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+
