@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/B00838624/Documents/GitHub/GMTK2023/TopDown/Content/AlchemistsHouse/Assets/Textures/Default_Mat/T_Default_Material_Grid_M.uasset",
 				"E:/UE Practice/TopDown/Content/TopDown/Blueprints/AI.uasset",
 				"E:/UE Practice/TopDown/Content/TopDown/Blueprints/Soldier.uasset",
 				"E:/UE Practice/TopDown/Content/TopDown/Blueprints/BP_TopDownController.uasset",
