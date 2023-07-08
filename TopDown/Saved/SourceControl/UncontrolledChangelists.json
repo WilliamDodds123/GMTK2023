@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/cguim/Desktop/GMTK2023/TopDown/Content/Characters/Mannequins/Animations/PlayerAnim.uasset",
+				"C:/Users/cguim/Desktop/GMTK2023/TopDown/Content/Characters/Mannequins/Animations/GoboAnim.uasset",
+				"C:/Users/cguim/Desktop/GMTK2023/TopDown/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
 				"E:/UE Practice/TopDown/Content/TopDown/Blueprints/AI.uasset",
 				"E:/UE Practice/TopDown/Content/TopDown/Blueprints/Soldier.uasset",
 				"E:/UE Practice/TopDown/Content/TopDown/Blueprints/BP_TopDownController.uasset",
